@@ -10,6 +10,7 @@ import org.springframework.context.annotation.Bean;
 import java.util.List;
 import java.util.UUID;
 
+
 @SpringBootApplication
 public class SerieServiceApplication {
 
